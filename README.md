@@ -1,3 +1,3 @@
 # AI-red-team
 
-Promptfoo AI red team test for Deepseek R1
+Promptfoo AI red team test for LLM Deepseek R1
