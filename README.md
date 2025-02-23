@@ -1,1 +1,1 @@
-# AI-read-team
+# AI-red-team
